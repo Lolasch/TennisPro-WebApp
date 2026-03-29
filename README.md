@@ -21,7 +21,7 @@ Depuis le début du projet, j’ai réalisé l’**analyse des besoins** et réd
 - Version admin pour une vision globale du système  
 
 ## Avancement
-- Analyse du besoin et rédaction du cahier des charges réalisée avec le tuteur  
+- Analyse du besoin et rédaction du cahier des charges 
 - Conception des wireframes et maquettes interactives sur Figma  
 - Création de la base de données MySQL  
 - Application web et base de données créées dans Azure Microsoft  
@@ -38,6 +38,22 @@ Depuis le début du projet, j’ai réalisé l’**analyse des besoins** et réd
 ![Trello](https://img.shields.io/badge/Trello-%239959BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Wrike](https://img.shields.io/badge/Wrike-%23AF83D1?style=for-the-badge&logo=wrike&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23C0A4E1?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## Images du projet
+
+Pour des raisons de confidentialité, la majorité des écrans et du code ne peuvent pas être montrés.  
+Les images ci-dessous sont un extrait de mon travail : 
+
+<p align="center">
+  <!-- Tableau de bord Responsable Vendeur -->
+  <img src="images/Tableau_de_bord_ResponsableVendeur_-_Couleurs_-_1.png" width="300" style="margin:5px">
+  
+  <!-- Statistiques -->
+  <img src="images/Statistiques_(_d_une_entreprise_en_particulier)_-_Couleurs_-_7.png" width="300" style="margin:5px">
+  
+  <!-- Gestion des prêts -->
+  <img src="images/Gestion_des_prêts_-_Couleurs_-_2.png" width="300" style="margin:5px">
+</p>
 
 ## Retour du tuteur
 Le tuteur a été très positif, impressionné par la réalisation de toutes les maquettes en seulement deux semaines malgré les contraintes et les nouveaux éléments à intégrer en cours du projet.
